@@ -1,0 +1,15 @@
+{
+  "source_url": null,
+  "transcript_path": "examples/transcript.txt",
+  "source_kind": "transcript",
+  "part": 1,
+  "coverage": "excerpt",
+  "language": "zh-CN",
+  "focus": [
+    "学习方法",
+    "复现"
+  ],
+  "reproduction": "plan",
+  "output_dir": "reports/demo",
+  "include_comments": false
+}

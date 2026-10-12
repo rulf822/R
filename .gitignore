@@ -1,0 +1,9 @@
+reports/
+inputs/
+.env
+.env.*
+!.env.example
+cookies*
+*.log
+__pycache__/
+.venv/

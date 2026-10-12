@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili 视频分析"
+  short_description: "为总结归类项目提取视频要点、分析结构并生成可核验的复现清单"
+  default_prompt: "使用 $bilibili-study 分析我提供的 B站视频或字幕，输出总结、精华、结构和复现清单。"
